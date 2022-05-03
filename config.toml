@@ -1,0 +1,14 @@
+baseURL = 'https://tuxzx.github.io/drunkcat-site/'
+languageCode = 'en-us'
+title = 'drunkcat'
+theme = 'hugo-ink'
+
+[params]
+avatar = "https://avatars.githubusercontent.com/u/29911719?v=4"
+subtitle = "drunk drunk drunk cat"
+
+[[params.social]]
+icon = "github"
+name = "GitHub"
+url = "https://github.com/Tuxzx"
+
